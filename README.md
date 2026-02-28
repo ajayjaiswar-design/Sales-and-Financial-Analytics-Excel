@@ -1,1 +1,1 @@
-# AtliQ Hardware's Sales and Financial Analytics Reports
+# AtliQ Hardware – Sales & Finance Analytics Project
